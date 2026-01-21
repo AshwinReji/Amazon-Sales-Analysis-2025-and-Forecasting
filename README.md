@@ -35,15 +35,15 @@ Using **Python** for advanced analytics/forecasting and **SQL** for business que
 ## Visualizations
 
 ### 1. Revenue Drivers by Category
-![Category Revenue](images/category_revenue.png)
+![Category Revenue](Total Revenue by Product Category.png)
 *Insight: Balanced revenue distribution, but Beauty/Electronics lead the pack.*
 
 ### 2. Daily Sales Trend & Volatility
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](Daily Sales Trend Over Time.png)
 *Insight: High daily volatility but a consistent annual baseline.*
 
 ### 3. Future Forecast (180 Days)
-![Forecast](images/sales_forecast_next_6_months.png)
+![Forecast](Sales Forecast Next 6 Months.png)
 *Insight: Prophet predicts a stable upward trajectory for Q1 2026.*
 
 ## SQL Analysis
