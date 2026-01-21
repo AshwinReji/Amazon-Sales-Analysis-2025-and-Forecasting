@@ -39,11 +39,11 @@ Using **Python** for advanced analytics/forecasting and **SQL** for business que
 *Insight: Balanced revenue distribution, but Beauty/Electronics lead the pack.*
 
 ### 2. Daily Sales Trend & Volatility
-![Sales Trend](Daily Sales Trend Over Time.png)
+![Sales Trend](Daily_Sales_Trend_Over_Time.png)
 *Insight: High daily volatility but a consistent annual baseline.*
 
 ### 3. Future Forecast (180 Days)
-![Forecast](Sales Forecast Next 6 Months.png)
+![Forecast](Sales_Forecast_Next_6_Months.png)
 *Insight: Prophet predicts a stable upward trajectory for Q1 2026.*
 
 ## SQL Analysis
