@@ -35,7 +35,7 @@ Using **Python** for advanced analytics/forecasting and **SQL** for business que
 ## Visualizations
 
 ### 1. Revenue Drivers by Category
-![Category Revenue](Total Revenue by Product Category.png)
+![Category Revenue](Total_Revenue_by_Product_Category.png)
 *Insight: Balanced revenue distribution, but Beauty/Electronics lead the pack.*
 
 ### 2. Daily Sales Trend & Volatility
