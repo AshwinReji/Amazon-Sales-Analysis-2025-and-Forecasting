@@ -43,7 +43,7 @@ Using **Python** for advanced analytics/forecasting and **SQL** for business que
 *Insight: High daily volatility but a consistent annual baseline.*
 
 ### 3. Future Forecast (90 Days)
-![Forecast](images/forecast.png)
+![Forecast](sales_forecast_next_6_months.png)
 *Insight: Prophet predicts a stable upward trajectory for Q1 2026.*
 
 ## SQL Analysis
